@@ -13,8 +13,9 @@
     "management",
     "system"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "qiaqia-cat",
+  "private": true,
+  "license": "UNLICENSED",
   "type": "commonjs",
   "dependencies": {
     "bcryptjs": "^3.0.3",
